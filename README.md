@@ -33,7 +33,7 @@ You can for example have the following structure for your website:
 4. Click on the button "*Upload files*"
 ![](https://i.imgur.com/5ELztv4.png)
 
-5. Drag and drop your files. You must see an `index.html`
+5. Drag and drop your files. You must see an `index.html`. Then click on the button "**Commit Changes**" to save your uploads.
 ![](https://i.imgur.com/IZNSOIi.png)
 
 
